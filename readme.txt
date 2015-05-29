@@ -18,11 +18,12 @@ A simple way to customize your login page
 The plugin injects:
 
 
-*	Custom logo
-*	Custom background
 * 	Custom error messages
-* 	Custom colors
-* 	Custom CSS
+*	Custom logo (Soon)
+*	Custom background (Soon)
+* 	Custom error messages (Soon)
+* 	Custom colors (Soon)
+* 	Custom CSS (Soon)
 
 
 New features are coming soon!!!
