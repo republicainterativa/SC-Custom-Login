@@ -1,7 +1,5 @@
 # SC Custom Login
 
-## !!! NOT WORKING, YET !!!
-
 ### A very simple WordPress plugin to customize your login page
 
 * Custom error mesages
