@@ -19,11 +19,6 @@ The plugin injects:
 
 
 * 	Custom error messages
-*	Custom logo (Soon)
-*	Custom background (Soon)
-* 	Custom error messages (Soon)
-* 	Custom colors (Soon)
-* 	Custom CSS (Soon)
 
 
 New features are coming soon!!!
