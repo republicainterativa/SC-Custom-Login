@@ -15,7 +15,7 @@ require_once plugin_dir_path( __FILE__ ) . '/options-page.php';
 /**
  * Change error msgs
  */
-function login_error_msg() { 
+function sclogin_login_error_msg() { 
 	$options = get_option( 'sclogin_settings' );
 	$options = explode("\r\n", $options['sclogin_errormsgs']);
 	$custom_error_msgs = $options;
