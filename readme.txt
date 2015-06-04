@@ -18,7 +18,7 @@ A simple way to customize your login page
 The plugin injects:
 
 
-* 	Custom error messages
+* 	Custom login error messages
 
 
 New features are coming soon!!!
