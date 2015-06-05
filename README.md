@@ -9,7 +9,7 @@
 * Custom CSS (Soon)
 
 ### Download from the WordPress plugin repository
-Soon
+[SC Custom Login](https://wordpress.org/plugins/sc-custom-login/)
 
 
 ## License
