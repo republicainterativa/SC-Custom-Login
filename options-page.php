@@ -18,7 +18,7 @@ function sclogin_settings_init() {
 
 	add_settings_field( 
 		'sclogin_errormsgs', 
-		__( 'Insert your custom error messages for logging in. Only one per line!', 'sclogin' ), 
+		__( 'Insert your custom error messages for logging in. Only one per line, it will show randomly!', 'sclogin' ), 
 		'sclogin_error_msgs_render', 
 		'sccustomloginpage', 
 		'sclogin_pluginPage_section' 
