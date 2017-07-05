@@ -5,7 +5,7 @@
  * Description: Simple way to customize your login page
  * Version: 1.0.0
  * Author: Sergio Costa
- * Author URI: http://sergiocosta.net.br/
+ * Author URI: http://republicainterativa.com.br/
  * Text Domain: sclogin
  * License: GPLv2 or later
  */
