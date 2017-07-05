@@ -2,10 +2,11 @@
 
 ### A very simple WordPress plugin to customize your login page
 
-* Custom error mesages
+* Custom login error mesages
 * Custom logo URL
-* Custom logo title attr
-* Custom background (Soon)
+* Custom logo title attribute
+* Custom background image (Soon)
+* Custom background color (Soon)
 * Custom logo (Soon)
 * Custom Colors (Soon)
 * Custom CSS (Soon)
