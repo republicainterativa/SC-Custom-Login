@@ -16,4 +16,4 @@
 
 
 ## License
-[![WTFPL](wtfpl-badge.png "WTFPL")](https://github.com/zergiocosta/SC-Custom-Login/blob/master/SCLOGIN_LICENSE)
+[![WTFPL](wtfpl-badge.png "WTFPL")](https://github.com/republicainterativa/SC-Custom-Login/blob/master/SCLOGIN_LICENSE)
